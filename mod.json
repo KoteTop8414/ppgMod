@@ -1,0 +1,18 @@
+{
+  "Name": "KoteMod",
+  "Author": "Kot",
+  "Description": "1000+7",
+  "ModVersion": "1.0",
+  "GameVersion": "1.23+",
+  "ThumbnailPath": "Thumbnail.png",
+  "EntryPoint": "KoteMod.KoteMod",
+  "Tags": [],
+  "Scripts": [
+    "Mod.cs",
+    "TaserBehaviour.cs",
+    "CategoryBuilder.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2280186226"
+}
